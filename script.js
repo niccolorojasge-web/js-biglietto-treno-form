@@ -1,6 +1,6 @@
 1 / SELEZIONO TUTTI GLI ELEMENTI DI PAGINA RELATIVI AI CAMPI const tabName -[locument.getElementByld("tab-name");
 const tabofferta = document - getElementyId("tab-offerta");
-const tabcarrozza - document.getElementById("tab-carrozza"); const tabp - document.getElementById("tab-cp");
+const tabcarrozza =document.getElementById("tab-carrozza"); const tabp - document.getElementById("tab-cp");
 const tabcosto = document.gêtElementById("tab-costo");
 const nameField = document.getElementById("user-name");
 const courseField
